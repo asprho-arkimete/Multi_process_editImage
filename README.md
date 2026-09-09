@@ -3,4 +3,10 @@ Elabora Multi processi di Editing Imagine  su differenti soggetti e con differen
 con preset di prompt per ogni Lora Attigguo.
 
 Istaling:
-Clone git clone 
+Clone git clone https://github.com/asprho-arkimete/Multi_process_editImage.git
+cd Multi_process_editImage
+crea ampiante virtuale python 3.10 -m venv vmulti
+cd scripts// vmulti//activate
+
+pip requirements.txt
+
