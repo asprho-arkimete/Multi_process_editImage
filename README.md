@@ -11,6 +11,9 @@ pip install cuda: pip3 install torch torchvision --index-url https://download.py
 pip instal -r requirements.txt
 scarica cartella lora : https://huggingface.co/Asprho/megalora/tree/main
 ed estrai i file rar nella cartella principale,
-scarica relise e mettine nella principale cartella: 
+scarica relise location.rar e mettila nella cartella principale:
+https://github.com/asprho-arkimete/Multi_process_editImage/releases/tag/imagelocations
+
+avvia app python multiprocess2.py
 
 
