@@ -1,0 +1,326 @@
+[
+  {
+    "azione": "nolora",
+    "prompt": "inserisci prompt personalizzato",
+    "nome_lora1": "nolora",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Consistent4 3viste+face",
+    "prompt": "Immagine fotorealistica, collage griglia 2x2, formato quadrato 1:1.\nQuattro pannelli che mostrano la STESSA donna identica in ogni pannello,\nstesso viso, stessi capelli, stesso corpo, stesso outfit in tutti i pannelli.\n\nPANNELLO IN ALTO A SINISTRA: primo piano frontale del viso, testa e spalle.\nPANNELLO IN ALTO A DESTRA: figura intera frontale dalla testa ai piedi, braccia lungo i fianchi.\nPANNELLO IN BASSO A SINISTRA: figura intera vista laterale destra, dalla testa ai piedi.\nPANNELLO IN BASSO A DESTRA: figura intera vista da dietro di spalle, dalla testa ai piedi.\n\nSfondo bianco neutro in tutti i pannelli, luce studio morbida.\nMassima coerenza del personaggio in tutti e 4 i pannelli: stesso viso, stessi capelli, stessi occhi, stesso corpo, stesso outfit.\nFotorealistico, messa a fuoco nitida, alta risoluzione, stile scheda di riferimento personaggio.",
+    "nome_lora1": "nolora",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Consistent4 3viste+face NUDE",
+    "prompt": "clothesonoffv2, rimozione completa dei vestiti, nudo integrale, rimozione totale di giacca, top, pantaloni e scarponi,\nImmagine fotorealistica, collage griglia 2x2, formato quadrato 1:1.\nQuattro pannelli che mostrano la STESSA donna identica in ogni pannello,\nstesso viso, stessi capelli lunghi biondi, stesso corpo, stessa altezza.\nPANNELLO IN ALTO A SINISTRA: primo piano frontale del viso, testa e spalle, espressione neutra, sguardo diretto.\nPANNELLO IN ALTO A DESTRA: figura intera frontale nuda dalla testa ai piedi, braccia rilassate lungo i fianchi, \ngambe leggermente divaricate, seni naturali con capezzoli dettagliati, pube con peli naturali radi chiari, vulva dettagliata visibile.\nPANNELLO IN BASSO A SINISTRA: figura intera vista laterale destra nuda, dalla testa ai piedi, posa eretta naturale, braccia lungo il corpo.\nPANNELLO IN BASSO A DESTRA: figura intera vista da dietro nuda, dalla testa ai piedi, braccia lungo i fianchi, glutei e schiena dettagliati.\n\nSfondo bianco puro in tutti i pannelli, illuminazione studio morbida e uniforme.\nMassima coerenza del personaggio: identica faccia e corporatura in tutti i pannelli.\nCompletamente nuda, anatomia realistica femminile, dettagli estremi della pelle, fotorealistico, altissima qualità, 8k Mantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "clothesonoffv2",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "rimuovi vestiti",
+    "prompt": "clothesonoffv2, Rimuovi completamente i vestiti, \nrimuovi il vestito, rimuovi la maglia, la giacca, rimuovi la gonna, rimuovi i pantaloni, \nuna ragazza totalmente nuda, seno piccolo nudo naturale, capezzoli dettagliati, \nvisuale frontale del pube con pochi peli naturali,visuale frontale dettagli genitali femminili;\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "clothesonoffv2",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "perfect teen",
+    "prompt": "thighgap_k9b, Servizio fotografico in studio di una ragazza identica al image 1, snella e sensuale, in nudo integrale.\n(totalmente nuda,seno nudo naturale, capezzoli, pube pochi peli), dettagli genitali feminili,Thighgap; \nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "thighgap_k9b",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "close up perfect pussy teen",
+    "prompt": "Foto amatoriale spontanea:(primo piano solo della parte:(inferiore del corpo di una giovane ragazza magra nuda)).\n(pube pochi peli), dettagli genitali femminili. \ntesta e seno fuori inquadratura.\nHa un tatuaggio sopra il bacino, sulla destra, con la scritta “Nome Ragazza”. \nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "thighgap_k9b",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "gambe aperte",
+    "prompt": "spread_legs_beta1, ragazza fotorealistica di 28 anni, stesso volto del riferimento, completamente nuda, \ndistesa supina sul materasso, gambe estremamente divaricate e sollevate in aria, ginocchia piegate, piedi visibili in telecamera,mani che tirano i glutei per aprire al massimo,\nseno naturale morbido, capezzoli realistici, leggera peluria pubica brunetta,(figa estremamente dilatata),(grandi labbra della vagina estremamente dilatate),\n(piccole labbra della vagina estremamente dilatate),vulva aperta e bagnata,canale vaginale aperto con interno visibile,clitoride visibile, \nano estremamente dilatato, enorme apertura anale rilassata, bordo anale stirato al massimo, profondità rettale visibile, \npelle iperrealistica con texture dettagliata, lucida di succhi, foto raw 8k, qualità massima, dettaglio anatomico estremo, realismo fotografico crudo\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "spread_legs_beta1",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "in piedi",
+    "prompt": "due ragazze in piedi in camera da letto; Mantieni sempre massima coerenza del soggetto nel image 1 e del soggetto nel image 2, dei visi, capigliatura, occhi e fisico",
+    "nome_lora1": "nolora",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "sedute",
+    "prompt": "due ragazze sedute sul letto; Mantieni sempre massima coerenza del soggetto nel image 1 e del soggetto nel image 2, dei visi, capigliatura, occhi e fisico",
+    "nome_lora1": "nolora",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "kiss",
+    "prompt": "due ragazze che si baciano alla francese sedute sul letto; Mantieni sempre massima coerenza del soggetto nel image 1 e del soggetto nel image 2, dei visi, capigliatura, occhi e fisico",
+    "nome_lora1": "nolora",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "close up kiss",
+    "prompt": "close up kiss, primo piano bacio di due ragazze sedute sul letto; Mantieni sempre massima coerenza del soggetto nel image 1 e del soggetto nel image 2, dei visi, capigliatura, occhi e fisico",
+    "nome_lora1": "nolora",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "dildo Anal",
+    "prompt": "anus_insertion_v1,Fotografia di una donna dell' image 1, \ntotalmente nuda, capelli lunghi neri, con seno naturale, capezzoli realistici visibili. \ndistesa su un letto matrimoniale con le gambe (alzate in aria e divaricate), mentre guarda verso la fotocamera. \nDall'ano spunta l'oggetto del image 2 di riferimento. Sullo sfondo si vede una parete bianca. \nL'inquadratura è frontale e riprende il suo corpo per intero e il viso.\npoca peluria pubica castana naturale, vulva bagnata estremamente dettagliata, grandi labbra carnose, \npiccole labbra lunghe divaricate, profonda apertura vaginale, fluidi vaginali luccicanti, clitoride gonfio,\ndettagli Anali:(Ano estremamente dilatato, Apertura anale visibile,righe intorno al Ano).  \ntexture pelle iperrealistica:del Ano,del corpo e del viso).\nOcchi luminosi, labbra carnose con rossetto rosso.\nfoto grezza 8k, massima qualità, photorealistic, raw photo.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "anus_insertion_v1",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "dildo Anal 2",
+    "prompt": "anus_insertion_v1,Fotografia di una donna dell' image 1, \ntotalmente nuda, capelli lunghi neri, con seno naturale, capezzoli realistici visibili. \ndistesa su un letto matrimoniale con le gambe (alzate in aria e divaricate), mentre guarda verso la fotocamera. \nDall'ano spunta l'oggetto del image 2 di riferimento. Sullo sfondo si vede una parete bianca. \nL'inquadratura è frontale e riprende il suo corpo per intero e il viso.\npoca peluria pubica castana naturale, vulva bagnata estremamente dettagliata, grandi labbra carnose, \npiccole labbra lunghe divaricate, profonda apertura vaginale, fluidi vaginali luccicanti, clitoride gonfio,\ndettagli Anali:(Ano estremamente dilatato, Apertura anale visibile,righe intorno al Ano).  \ntexture pelle iperrealistica:del Ano,del corpo e del viso).\nOcchi luminosi, labbra carnose con rossetto rosso.\nfoto grezza 8k, massima qualità, photorealistic, raw photo.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "anus_insertion_v1",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "posa pecora",
+    "prompt": "PornMaster_innie_pussy_flux-2-klein-9b_V1, ripresa da dietro, volto di profilo visibile e coerente con image 1, \ninquadratura da dietro che mette in risalto ano estremamente e figa estremamente dilatata, grandi e piccole labbra divaricate, \na quattro zampe sul pavimento, con gambe divaricate, completamente nuda, seno naturale, coerenza viso e capelli\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "PornMaster_innie_pussy_flux-2-klein-9b_V1",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Allat ragazzo",
+    "prompt": "klein_snofs_v1_3_converted, Allattamento, la donna del image 1 è totalmente nuda, seno nudo naturale, capezzoli visibili, pancia magra, ed è seduta sul letto con il busto e il seno di profilo e allatta il ragazzo del image 2.\nIl ragazzo del image 2 è anch'esso totalmente nudo, pettorali visibili, e posa la bocca aperta sul seno della donna del image 1 e lecca con la lingua il suo capezzolo.\nMantieni massima coerenza del viso, capelli, occhi e seno della donna nel image 1;\nMantieni massima coerenza del viso, occhi e capelli del ragazzo nel image 2",
+    "nome_lora1": "klein_snofs_v1_3_converted",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Allat donna",
+    "prompt": "kissing_with_extra_klein9b_v2_epoch, Primo piano ravvicinato di due donne nude in un momento intimo.\nLa donna del image 1 ha capelli lunghi castano scuro, occhi nocciola e carnagione chiara. È inclinata in avanti con la bocca leggermente aperta e guarda verso la fotocamera.\nLa donna del image 2 con capelli lunghi biondi si avvicina dal basso, il viso premuto contro il seno della donna in piedi, succhia il capezzolo.\nLe mani della donna castana poggiano sul proprio ventre con unghie smaltate rosa chiaro.\nLo sfondo è una semplice parete verde tenue che mantiene il focus sui loro corpi.\nMantieni massima coerenza del viso, capelli, occhi e seno della donna image 1;\nMantieni massima coerenza del viso, occhi e capelli della donna image 2",
+    "nome_lora1": "kissing_with_extra_klein9b_v2_epoch",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "pompino POV",
+    "prompt": "POV_blowjobV1_A,Un'inquadratura in prima persona di una ragazza dalle labbra rosse mentre fa un pompino, \nripresa dal punto di vista dell'uomo, luce naturale da finestra, stile spontaneo\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "POV_blowjobV1_A",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "pompino_laterale",
+    "prompt": "blowjob_klein_v1_side,Si tratta di una fotografia ad alta risoluzione che ritrae una scena esplicita per adulti. \nL'immagine mostra la ragazza del image 1, nuda con lunghi capelli, pelle chiara e un seno naturale. È in ginocchio su un pavimento e \nsta praticando sesso orale a un uomo nudo in piedi. Il pene eretto dell'uomo è ben visibile nella sua bocca, mentre la mano di lui è appoggiata delicatamente \nsulla sua testa. La ragazza guarda l'uomo con uno sguardo concentrato.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "blowjob_klein_v1_side",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "close_up_pomp_late",
+    "prompt": "blowjob_klein_v1_side,Si tratta di una fotografia ad alta risoluzione che ritrae una scena esplicita per adulti. \nL'immagine mostra la ragazza del image 1, nuda con lunghi capelli, pelle chiara e un seno naturale. È in ginocchio su un pavimento e \nsta praticando sesso orale a un uomo nudo in piedi. Il pene eretto dell'uomo è ben visibile nella sua bocca, mentre la mano di lui è appoggiata delicatamente \nsulla sua testa. La ragazza guarda l'uomo con uno sguardo concentrato.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "blowjob_klein_v1_side",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "pomp_rovescio",
+    "prompt": "FK_mountedfellatio,la ragazza del image 1 e un uomo. \nSesso orale profondo, primo piano di sesso orale, gola profonda estrema; \ninquadratura dal basso: la ragazza totalmente nuda, ha la testa reclinata all’indietro e l’uomo le penetra profondamente la bocca con il suo pene di grandi dimensioni dall’alto. \nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "FK_mountedfellatio",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Blowbang",
+    "prompt": "blowbang_klein_v1,Foto molto esplicita, ripresa da vicino e dall'alto, di una donna del image 1 coinvolta in un rapporto sessuale di \ngruppo con più uomini. Attorno alla sua testa sono visibili diversi peni in erezione.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "blowbang_klein_v1",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Sperma in Bocca",
+    "prompt": "FK_cuminmouth8, la ragazza nel image 1.totalmente nuda, seno nudo naturale,capezzoli, ha la bocca aperta ed è piena di sperma. \nHa dello sperma in bocca. Migliora le ombre e l'illuminazione,\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "FK_cuminmouth8",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Close_upSpermaInBocca",
+    "prompt": "FK_cuminmouth8, la ragazza nel image 1.totalmente nuda, seno nudo naturale,capezzoli, ha la bocca aperta ed è piena di sperma. \nHa dello sperma in bocca. Migliora le ombre e l'illuminazione,\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "FK_cuminmouth8",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "pene_sperma",
+    "prompt": "FK_bukkakenew2, la ragazza del image 1 di profilo,vista meta busto, completamente nuda, Seno nudo Naturale visibile, capezzoli visibili.\nha la bocca estremamente aperta, piena di molto sperma e un solo grande pene di fronte alla sua bocca.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "FK_bukkakenew2",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "man_lickpussy 1",
+    "prompt": "pussy_licking_klein_v1, scena di cunnilingus dettagliata, donna totalmente nuda con gambe divaricate, vulva esposta e dettagliata, \npartner che pratica sesso orale con lingua visibile, illuminazione morbida naturale, letto matrimoniale, parete bianca sullo sfondo.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "pussy_licking_klein_v1",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "lbs_lickpussyAB1",
+    "prompt": "pussy_licking_klein_v1, scena di cunnilingus dettagliata, donna totalmente nuda con gambe divaricate, vulva esposta e dettagliata, \npartner che pratica sesso orale con lingua visibile, illuminazione morbida naturale, letto matrimoniale, parete bianca sullo sfondo.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "pussy_licking_klein_v1",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "lbs_lickpussyBA1",
+    "prompt": "pussy_licking_klein_v1, scena di cunnilingus dettagliata, donna totalmente nuda con gambe divaricate, vulva esposta e dettagliata, \npartner che pratica sesso orale con lingua visibile, illuminazione morbida naturale, letto matrimoniale, parete bianca sullo sfondo.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "pussy_licking_klein_v1",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "man_lickpussy_69",
+    "prompt": "69lesbo, fotografia fotorealistica ad alta risoluzione, primo piano intimo di sesso orale 69, dettagli genitali estremi, saliva visibile, \nilluminazione sensuale calda, posizione precisa con una persona sopra e una sotto.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "69lesbo",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "lsb_lickpussy_69_AB",
+    "prompt": "69lesbo, fotografia fotorealistica ad alta risoluzione, primo piano intimo di sesso orale 69, dettagli genitali estremi, saliva visibile, \nilluminazione sensuale calda, posizione precisa con una persona sopra e una sotto.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "69lesbo",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "lsb_lickpussy_69_BA",
+    "prompt": "69lesbo, fotografia fotorealistica ad alta risoluzione, primo piano intimo di sesso orale 69, dettagli genitali estremi, saliva visibile, \nilluminazione sensuale calda, posizione precisa con una persona sopra e una sotto.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "69lesbo",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Ass side",
+    "prompt": "F.2K_Pose_Presenting_ass_and_pussy_sideways_epoch_32, ragazza completamente nuda in posa laterale che mostra sedere e vulva, \ndettagli anatomici realistici, pelle luminosa, sguardo verso lo spettatore.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "F.2K_Pose_Presenting_ass_and_pussy_sideways_epoch_32",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Ass side 2",
+    "prompt": "F.2K_Pose_Presenting_ass_and_pussy_sideways_epoch_32, ragazza completamente nuda in posa laterale che mostra sedere e vulva, \ndettagli anatomici realistici, pelle luminosa, sguardo verso lo spettatore.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "F.2K_Pose_Presenting_ass_and_pussy_sideways_epoch_32",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "side rimming",
+    "prompt": "klein_snofs_v1_4_converted, femaleasshole, scena erotica di rimming, primo piano estremo su ano roseo dettagliato, \nlingua lunga e bagnata che lecca profondamente, saliva visibile, texture pelle realistica.\nMantieni sempre massima coerenza del soggetto nel image 1 e del soggetto nel image 2, dei visi, capigliatura, occhi e fisico",
+    "nome_lora1": "klein_snofs_v1_4_converted",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "side rimming 2",
+    "prompt": "klein_snofs_v1_4_converted, femaleasshole, scena erotica di rimming, primo piano estremo su ano roseo dettagliato, \nlingua lunga e bagnata che lecca profondamente, saliva visibile, texture pelle realistica.\nMantieni sempre massima coerenza del soggetto nel image 1 e del soggetto nel image 2, dei visi, capigliatura, occhi e fisico",
+    "nome_lora1": "klein_snofs_v1_4_converted",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Fisting lesbo",
+    "prompt": "F.2 K 9B - NSFW - Vaginal Fisting_epoch_29, penetrazione profonda con braccio, posizione su materasso matrimoniale, \ndonna con gambe divaricate, espressione intensa, illuminazione drammatica naturale, dettagli genitali estremi.\nMantieni sempre massima coerenza del soggetto nel image 1 e del soggetto nel image 2, dei visi, capigliatura, occhi e fisico",
+    "nome_lora1": "F.2 K 9B - NSFW - Vaginal Fisting_epoch_29",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Fisting Anal lsb",
+    "prompt": "F.2 K 9B - NSFW - Vaginal Fisting_epoch_29, penetrazione profonda con braccio, posizione su materasso matrimoniale, \ndonna con gambe divaricate, espressione intensa, illuminazione drammatica naturale, dettagli genitali estremi.\nMantieni sempre massima coerenza del soggetto nel image 1 e del soggetto nel image 2, dei visi, capigliatura, occhi e fisico",
+    "nome_lora1": "F.2 K 9B - NSFW - Vaginal Fisting_epoch_29",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Missionaria",
+    "prompt": "FK_missionary, posizione del missionario, penetrazione vaginale, ragazza totalmente nuda sdraiata sulla schiena con gambe divaricate, \nsguardo verso la telecamera, seno nudo naturale.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "FK_missionary",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "lei sopra",
+    "prompt": "ragazza del image 1 accovacciata sopra un uomo, penetrazione vaginale profonda, sguardo verso la telecamera, espressione di piacere, \ncamera da letto matrimoniale.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "pov_squatting_sex_f2k9b_000002500",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "lei sopra 2",
+    "prompt": "ragazza del image 1 accovacciata sopra un uomo, penetrazione vaginale profonda, sguardo verso la telecamera, espressione di piacere, \ncamera da letto matrimoniale.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "pov_squatting_sex_f2k9b_000002500",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Anal lei sopra",
+    "prompt": "posizione full nelson anale, penetrazione anale profonda, gambe sollevate, ragazza totalmente nuda, espressione di piacere.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "klein-fnelson-13epoc-k3nk",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Anal lei sopra 2",
+    "prompt": "posizione full nelson anale, penetrazione anale profonda, gambe sollevate, ragazza totalmente nuda, espressione di piacere.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "klein-fnelson-13epoc-k3nk",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Anal rovesciata",
+    "prompt": "FK_piledriver, posizione piledriver anale, ripresa dall'alto, penetrazione anale visibile, gambe sollevate verso l'alto.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "FK_piledriver",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Anal pecora",
+    "prompt": "FK_bulldoganalsexfinal, ragazza a quattro zampe, penetrazione anale da dietro, vista posteriore con ano e vagina esposti.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "FK_bulldoganalsexfinal",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Doggystyle anal",
+    "prompt": "FK_spitroastanal, ragazza a quattro zampe, doppia penetrazione (orale + anale), posizione doggystyle anale.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "FK_spitroastanal",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Side Anal",
+    "prompt": "FK_analonside, ragazza sdraiata su un fianco, penetrazione anale laterale, dettagli ano e penetrazione visibili.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "FK_analonside",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "DP Frontale",
+    "prompt": "doppia penetrazione (vaginale + anale), due uomini e una ragazza, posizione esplicita, dettagli intensi, camera da letto.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "FK_cowgirldoublepenetration",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "DP cowgirl",
+    "prompt": "doppia penetrazione (vaginale + anale), due uomini e una ragazza, posizione esplicita, dettagli intensi, camera da letto.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "FK_cowgirldoublepenetration",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "sperma figa",
+    "prompt": "spread_legs_beta1, ragazza sdraiata supina con gambe divaricate, vagina estremamente dilatata e riempita di sperma spesso bianco che cola, \ndettagli interni vulva, creampie abbondante, close-up sul genitali.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "spread_legs_beta1",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "close up-sperma figa",
+    "prompt": "spread_legs_beta1, ragazza sdraiata supina con gambe divaricate, vagina estremamente dilatata e riempita di sperma spesso bianco che cola, \ndettagli interni vulva, creampie abbondante, close-up sul genitali.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "spread_legs_beta1",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "aggiungi sperma",
+    "prompt": "PornMaster_cum_flux-2-klein-9b_V1, Aggiungi tanto sperma su faccia, seno, figa, ano o mani, dettagli realistici di cum, texture lucida.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "PornMaster_cum_flux-2-klein-9b_V1",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "Convert_Woman_to_TransWo",
+    "prompt": "clothesonoffv2, Klein9BGeneralPenis-v1-5BETA, ragazza completamente nuda, rimozione vestiti, dettagli genitali maschili, grande pene eretto.\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "clothesonoffv2",
+    "nome_lora2": "Klein9BGeneralPenis-v1-5BETA"
+  },
+  {
+    "azione": "transf_pose Maching",
+    "prompt": "Transfer the pose from the mannequin in image 1 to the girl in image 2. \nMantieni massima coerenza del viso, capelli, occhi e fisico del soggetto nel image 2.\n#lora1:Maching_Pose_9B_Rank256",
+    "nome_lora1": "Maching_Pose_9B_Rank256",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "costum",
+    "prompt": "inserisci il tuo prompt personalizzato qui; Mantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "nolora",
+    "nome_lora2": ""
+  },
+  {
+    "azione": "transform skz",
+    "prompt": "trasforma lo schizzo del disegno rosa in ....,\ntrasforma lo schizzo del disegno verde in ....,\ntrasforma lo schizzo del disegno blue in ....;\nMantieni sempre massima coerenza del soggetto nel image 1, del viso, capigliatura, occhi e fisico",
+    "nome_lora1": "nolora",
+    "nome_lora2": ""
+  }
+]
