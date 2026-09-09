@@ -7,6 +7,10 @@ Clone git clone https://github.com/asprho-arkimete/Multi_process_editImage.git
 cd Multi_process_editImage
 crea ampiante virtuale python 3.10 -m venv vmulti
 cd scripts// vmulti//activate
+pip install cuda: pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu130
+pip instal -r requirements.txt
+scarica cartella lora : https://huggingface.co/Asprho/megalora/tree/main
+ed estrai i file rar nella cartella principale,
+scarica relise e mettine nella principale cartella: 
 
-pip requirements.txt
 
